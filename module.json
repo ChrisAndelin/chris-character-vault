@@ -1,0 +1,23 @@
+{
+  "name": "chris-character-vault",
+  "title": "Chris's Character Vault",
+  "description": "Sharing characters across worlds",
+  "author": "Chris Andelin",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion":"0.8.8",
+  "packs": [
+    {
+      "name": "ccv-actors",
+      "label": "Character Vault",
+      "system": "dnd5e",
+      "path": "packs/actors.db",
+      "entity": "Actor",
+      "module": "chris-character-vault"
+    }
+  ],
+  "system": "dnd5e",
+  "url": "https://github.com/ChrisAndelin/lmop-shared",
+  "version": "0.0.0",
+  "manifest": "https://github.com/ChrisAndelin/chris-character-vault/releases/download/0.0.0/module.json",
+  "download": "https://github.com/ChrisAndelin/chris-character-vault/releases/download/0.0.0/module.zip"
+ }
